@@ -1,0 +1,24 @@
+#main{
+	width: 60%;
+	height: 100%;
+	margin-left: 10%;
+	background-color: pink;
+	padding:1em;
+
+}
+
+
+form{
+	background-color: #c0ebff;
+	padding:1em;
+	font-family: 'Philosopher', sans-serif;
+
+}
+body{
+	text-align: center;
+	font-family: 'Galada', cursive;
+	background-color: #c0ffd5;
+}
+.text-muted{
+	margin-left:20em;
+}
